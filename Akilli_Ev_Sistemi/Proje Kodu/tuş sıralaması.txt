@@ -1,0 +1,6 @@
+1 tuş ledi 
+2. tuş röleyi 
+3. tuş pır sensörünü çalıştırıyor
+4. sensör pır sensörünü kapatıyor 2. ledi açıp kapatıyor. 
+ 4. sensörden sonra pır sensörünü aktif etmek için 3. tuşa basmak gerekiyor.
+ küçük kırmızı led pır sensörünün aktifliğine gör yanıyor.
